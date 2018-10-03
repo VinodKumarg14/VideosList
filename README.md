@@ -1,8 +1,8 @@
 # VideosList
 This project is to show subtitles. 
-Following steps need to be done before using "com.tk.apkdemo.videosubtitles.subtitles"
-1. Add "CustomVideoView" in layout file
-2. Implement for OnUpdateListener for "customevideoview" 
+Following steps need to be done before using "com.tk.apkdemo.videosubtitles.subtitles".
+1. Add "CustomVideoView" in layout file.
+2. Implement for OnUpdateListener for "customevideoview". 
  Ex: customVideoView.setOnUpdateListener(new OnUpdateListener(){
             @Override
             public void onUpdate(Object object, String error) {
